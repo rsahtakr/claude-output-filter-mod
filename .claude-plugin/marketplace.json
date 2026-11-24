@@ -1,0 +1,13 @@
+{
+  "name": "output-filter-local",
+  "owner": {
+    "name": "Rishabh"
+  },
+  "plugins": [
+    {
+      "name": "output-filter",
+      "source": "./"
+    }
+  ],
+  "description": "Local marketplace for the output-filter mod."
+}

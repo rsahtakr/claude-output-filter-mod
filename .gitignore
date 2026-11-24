@@ -1,0 +1,5 @@
+.opencode/
+.phased/
+tests/fixtures/labelled-outputs.json
+tests/fixtures/labelled-outputs.ts
+tests/classify.test.ts

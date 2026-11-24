@@ -1,0 +1,9 @@
+{
+  "name": "output-filter",
+  "version": "0.4.0",
+  "description": "A bar above the prompt that filters the transcript, plus a coloured category label before each assistant output, highlights that persist (/hl), and flags listed in a Flags pane (/flag, /flags).",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Rishabh"
+  }
+}
